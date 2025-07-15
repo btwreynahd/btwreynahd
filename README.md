@@ -29,9 +29,19 @@ Meine Repos sind bewusst kompakt, teilweise geschützt (obfuskiert) und für erf
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![FiveM](https://img.shields.io/badge/-FiveM-FF5500?style=flat&logo=fivem&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm)
+
+## 🔧 FiveM Tools
+
+![FiveM](https://img.shields.io/badge/-FiveM-FF5500?style=flat&logo=fivem&logoColor=white)
+![ESX](https://img.shields.io/badge/-ESX-00c3ff?style=flat&logo=data:image/svg+xml;base64,&logoColor=white)
+![QBCore](https://img.shields.io/badge/-QBCore-purple?style=flat&logo=lua)
+![TxAdmin](https://img.shields.io/badge/-txAdmin-003545?style=flat&logo=vercel&logoColor=white)
+![oxmysql](https://img.shields.io/badge/-oxmysql-4479A1?style=flat&logo=mysql&logoColor=white)
+![OpenIV](https://img.shields.io/badge/-OpenIV-grey?style=flat&logo=windows)
+![Codewalker](https://img.shields.io/badge/-Codewalker-orange?style=flat)
+
 
 
 
