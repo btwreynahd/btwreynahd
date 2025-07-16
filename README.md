@@ -1,24 +1,24 @@
-# 👋 Hey, ich bin btwreynahd
+# 👋 Hey, I’m btwreynahd
 
-Ich entwickle Tools rund um FiveM, Batch & Lua-Skripte – mit Fokus auf Performance, Utility & Datenschutz.  
-Meine Repos sind bewusst kompakt, teilweise geschützt (obfuskiert) und für erfahrene Nutzer gedacht.
+I develop tools for FiveM, Batch, and Lua scripts – with a focus on **performance**, **utility**, and **privacy**.  
+My repositories are intentionally compact, partially protected (obfuscated), and designed for advanced users.
 
 ---
 
-## 🚀 Projekte
+## 🚀 Projects
 
 - 🔍 [**fivemipfinder**](https://github.com/btwreynahd/fivemipfinder)  
-  Findet IP-Adressen von FiveM-Servern über cfx.re-Links.
+  Finds IP addresses of FiveM servers via cfx.re links.
 
 - 🛠️ [**maintance**](https://github.com/btwreynahd/maintance)  
-  Batch-Tool zur Systemwartung (Temp-Dateien löschen, HDD defragmentieren etc.).
+  Batch tool for system maintenance (delete temp files, defragment HDD, etc.).
 
 - 🤖 [**rconbot**](https://github.com/btwreynahd/rconbot)  
-  Automatisierte Steuerung über RCON (Node.js).
+  Automated server control using RCON (Node.js).
 
 ---
 
-## ⚙️ Sprachen & Tools
+## ⚙️ Languages & Tools
 
 ![Batch](https://img.shields.io/badge/-Batchfile-lightgrey?style=flat&logo=windows)
 ![Lua](https://img.shields.io/badge/-Lua-blue?style=flat&logo=lua)
@@ -42,21 +42,15 @@ Meine Repos sind bewusst kompakt, teilweise geschützt (obfuskiert) und für erf
 ![OpenIV](https://img.shields.io/badge/-OpenIV-grey?style=flat&logo=windows)
 ![Codewalker](https://img.shields.io/badge/-Codewalker-orange?style=flat)
 
-
-
-
 ---
 
-## 📫 Kontakt & Support
+## 📫 Contact & Support
 
 - 📦 GitHub: [@btwreynahd](https://github.com/btwreynahd)  
-- 💬 **Discord**: `btwreynahd` → Add mich einfach bei Fragen zu meinen Projekten!  
-- 🐛 Bug oder Feedback? → GitHub-Issue öffnen.
+- 💬 **Discord**: `btwreynahd` → Just add me if you have any questions about my projects!  
+- 🐛 Found a bug or have feedback? → Open a GitHub issue.  
 - https://discord.gg/beEH2Wns3B
-https://discord.gg/beEH2Wns3B
-https://discord.gg/beEH2Wns3B
-https://discord.gg/beEH2Wns3B
 
 ---
 
-_» Code ist Kunst. Wer ihn versteht, sieht mehr als nur Text.«_
+_“Code is art. Those who understand it see more than just text.”_
