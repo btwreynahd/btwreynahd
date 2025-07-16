@@ -52,6 +52,10 @@ Meine Repos sind bewusst kompakt, teilweise geschützt (obfuskiert) und für erf
 - 📦 GitHub: [@btwreynahd](https://github.com/btwreynahd)  
 - 💬 **Discord**: `btwreynahd` → Add mich einfach bei Fragen zu meinen Projekten!  
 - 🐛 Bug oder Feedback? → GitHub-Issue öffnen.
+- https://discord.gg/beEH2Wns3B
+https://discord.gg/beEH2Wns3B
+https://discord.gg/beEH2Wns3B
+https://discord.gg/beEH2Wns3B
 
 ---
 
